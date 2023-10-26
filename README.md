@@ -26,18 +26,25 @@ Before you begin, ensure you have met the following requirements:
 - Flask and Flask-MySQLDB installed.
 - MySQL database server set up.
 - xampp or wampp
-  
+
 ## Installation
 
-   git clone [https://github.com/chandusgowda3811/crudapplication.git]
-  cd crudapplication
-  pip install Flask Flask-MySQLDB
-  add create database crud and add crud.sql to it
-  python app.py
+To set up and run the Flask CRUD application, follow these steps:
 
+# Clone the repository
+git clone https://github.com/chandusgowda3811/crudapplication.git
 
+# Change into the project directory
+cd crudapplication
 
+# Install the required dependencies
+pip install Flask Flask-MySQLDB
 
+# Configure your MySQL database settings in app.py
+create database crud and add crud.sql to it
+
+# Run the application
+python app.py
 
 
 ![2](https://github.com/chandusgowda3811/crudapplication/assets/139698160/c7f536b4-8514-4428-9f3d-d645532bb36c)
