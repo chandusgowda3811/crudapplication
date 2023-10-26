@@ -1,4 +1,4 @@
-# crudapplication
+# CRUD APPLACATION
 ![1](https://github.com/chandusgowda3811/crudapplication/assets/139698160/7170735f-c73f-4add-9cbb-970821551948)
 ![2](https://github.com/chandusgowda3811/crudapplication/assets/139698160/c7f536b4-8514-4428-9f3d-d645532bb36c)
 ![3](https://github.com/chandusgowda3811/crudapplication/assets/139698160/94225b05-556f-4455-b814-fc1357074957)
