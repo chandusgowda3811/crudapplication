@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 To set up and run the Flask CRUD application, follow these steps:
 
--Clone the repository
+- Clone the repository
 git clone https://github.com/chandusgowda3811/crudapplication.git
 
 - Change into the project directory
