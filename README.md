@@ -37,7 +37,7 @@ To set up and run the Flask CRUD application, follow these steps:
 - cd crudapplication
 - pip install Flask Flask-MySQLDB
 - Configure your MySQL database settings in app.py
-- Run the application python app.py
+- Run the application app.py
 
 
 ## Result
