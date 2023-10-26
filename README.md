@@ -46,6 +46,8 @@ create database crud and add crud.sql to it
 - Run the application
 python app.py
 
+#Result
+
 
 ![2](https://github.com/chandusgowda3811/crudapplication/assets/139698160/c7f536b4-8514-4428-9f3d-d645532bb36c)
 
