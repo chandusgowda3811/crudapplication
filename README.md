@@ -1,3 +1,4 @@
 # crudapplication
-![Image 1](https://raw.githubusercontent.com/chandusgowda3811/crudapplication/main/images/1.png)
+![1](https://github.com/chandusgowda3811/crudapplication/assets/139698160/7170735f-c73f-4add-9cbb-970821551948)
+
 
