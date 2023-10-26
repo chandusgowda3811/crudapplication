@@ -31,20 +31,17 @@ Before you begin, ensure you have met the following requirements:
 
 To set up and run the Flask CRUD application, follow these steps:
 
-- Clone the repository
+
+# Clone the repository, change into the project directory, and install dependencies
 git clone https://github.com/chandusgowda3811/crudapplication.git
-
-- Change into the project directory
 cd crudapplication
-
-- Install the required dependencies
 pip install Flask Flask-MySQLDB
 
-- Configure your MySQL database settings in app.py
-create database crud and add crud.sql to it
+# Configure your MySQL database settings in app.py
 
-- Run the application
+# Run the application
 python app.py
+
 
 #Result
 
