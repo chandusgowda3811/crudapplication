@@ -1,4 +1,45 @@
-# CRUD APPLACATION
+# Flask CRUD Application
+
+This is a simple Flask application that performs CRUD (Create, Read, Update, Delete) operations on a MySQL database. It allows you to manage a list of students.
+
+## Overview
+
+This Flask application provides a basic web interface for managing student records stored in a MySQL database. It uses Flask, Flask-MySQLDB, and Bootstrap for the frontend. The application includes the following operations:
+
+- Create a new student record.
+- Read and display a list of student records.
+- Update student records.
+- Delete student records.
+
+## Features
+
+- Simple and easy-to-use web interface.
+- MySQL database integration for data storage.
+- Flash messages for user feedback.
+- CRUD functionality to manage student records.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.x installed.
+- Flask and Flask-MySQLDB installed.
+- MySQL database server set up.
+- xampp or wampp
+  
+## Installation
+
+   git clone [https://github.com/chandusgowda3811/crudapplication.git]
+  cd crudapplication
+  pip install Flask Flask-MySQLDB
+  add create database crud and add crud.sql to it
+  python app.py
+
+
+
+
+
+
 ![2](https://github.com/chandusgowda3811/crudapplication/assets/139698160/c7f536b4-8514-4428-9f3d-d645532bb36c)
 
 ![1](https://github.com/chandusgowda3811/crudapplication/assets/139698160/7170735f-c73f-4add-9cbb-970821551948)
