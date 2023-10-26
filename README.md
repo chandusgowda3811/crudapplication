@@ -67,6 +67,8 @@ To set up and run the Flask CRUD application, follow these steps:
 
 ![10](https://github.com/chandusgowda3811/crudapplication/assets/139698160/19043a83-6863-4d26-8f88-05177b7ff497)
 
+## Deleting Data
+
 ![11](https://github.com/chandusgowda3811/crudapplication/assets/139698160/4e85ddd3-1d07-4bc4-98d4-397793aba51f)
 
 ![12](https://github.com/chandusgowda3811/crudapplication/assets/139698160/1cd6e014-7df6-44d7-bf12-1c41b62c5903)
